@@ -1,0 +1,29 @@
+html {
+    background-color: aqua;
+    color: black;
+    overflow-x: hidden;
+}
+
+.center {
+    text-align: center;
+}
+
+#main {
+    font-weight: bolder;
+}
+
+.heading {
+    margin-top: 10%;
+}
+
+.justify {
+    justify-content: center;
+}
+
+footer {
+    height: 5vw;
+    position: absolute;
+    bottom: 0;
+    background-color: grey;
+    width: 100%;
+}
